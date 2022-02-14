@@ -1,0 +1,64 @@
+html {
+    background-color: grey;
+    background-attachment: fixed;
+}
+
+main p{
+    margin: 1em;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    background-color:green;
+    max-width: 1000px;
+    width: 100%;
+    border: 3px solid green;
+    margin: 0 auto;
+    background-color:greenyellow;
+    box-shadow: 5px 10px 8px 10px grey;
+}
+body h1{
+    margin: 1em;
+}
+header{
+    background-color: white;
+    color:black;
+    padding: 5px 0;
+    text-align: center;
+    border-bottom: 1em;
+}
+header{
+    background-color: green;
+    color: white;
+    padding: 5px;
+}
+header h1{
+    font-size: 200%;
+}
+div{
+    clear: both;
+}
+img{
+    max-width: 400px;
+    width: 200px;
+    margin: 5px;
+}
+.rightimage{
+    float: right;
+    margin-right: 1em;
+}
+.leftimage{
+    float: left;
+    margin-left: 1em;
+}
+footer{
+    clear: both;
+    background-color: green;
+    color: white;
+    padding: 5px 0;
+}
+footer p{
+    text-align: center;
+    font-size: 75%;
+}
